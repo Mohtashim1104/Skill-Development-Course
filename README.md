@@ -81,7 +81,7 @@ Use **VS Code** or any IDE of your choice to explore each folder.
 
 ## Author
 
-**Mohtashim**
+**Mohammed Mohtashim Gouhar**
 
 Passionate about full-stack development and building impactful projects with modern web technologies.
 
