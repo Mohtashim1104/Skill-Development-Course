@@ -44,7 +44,7 @@ Chart.js (Data Visualization)
 
 **1. Clone the Repository**  
    terminal-code
-   git clone https://github.com/swayamprakashm/Skill-Development-Lab.git
+   git clone 
    cd Skill-Development-Lab
 
 
@@ -68,7 +68,7 @@ Chart.js (Data Visualization)
 
 **Author**
 
-M Swayam Prakash
+- ------ -------
 Passionate about full-stack development and building impactful projects with modern web technologies.
 
 **Suggestions**
