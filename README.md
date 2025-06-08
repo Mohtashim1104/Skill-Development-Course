@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Skill Development Lab – Full Stack Experiments**
 
 Welcome to the Skill Development Lab Repository This collection contains 16 hands-on experiments designed to help students and beginners learn modern web and software development skills across Frontend, Backend, and Full Stack technologies.
@@ -79,3 +80,7 @@ Passionate about full-stack development and building impactful projects with mod
 
 **License**
 This repository is open for learning and educational use.
+=======
+# Skill-Development-Lab
+SDC
+>>>>>>> 1d1c8feb4b60d5075cbc930d8716cbac3e3e42ed
